@@ -1,0 +1,57 @@
++ for add
+* for bug fixed 
+
+VERSION 2.0.0.0
+
+---------------------------------------------------
+
+VERSION 2.1.0.0
+
+---------------------------------------------------
+
+Module
++ Default image for marketplace
++ Seo setting for seller's products and seo for seller profile
++ Seller's public profile - tab visibility settings
++ Front end module settings
+  Account menu -
+  - allow/disallow marketplace account menu
+  - account menu sequencing according to need
+  Product page module - 
+  - Settings regarding seller's details that how and what should be displayed on product page
++ Mail keywords
+  Dynamic mail keywords that can be used in mails while creating mails.
+
+* Issue regarding pricing is fixed
+
+---------------------------------------------------
+
+VERSION 2.1.0.1
+
+---------------------------------------------------
+
++ mail compatible to oc-2.0.2.0
+
+* Transaction at admin side
+* SEO for seller product
+* Shipping page bug
+* mail system
+
+----------------------------------------------------
+
+VERSION 2.1.1.1
+
+----------------------------------------------------
+
++ Seller public Profile changed
++ Order status and sequence
++ Allow order status and their sequence only those seller can update
++ Image remove option on profile page
++ reapprove product on edit
++ product preview before approval
+
+* Mail issue as per old and new format
+* Transaction to seller (Admin side)
+* Shipping calculations
+* Profile image issues
+* Seo issues
